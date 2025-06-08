@@ -51,8 +51,8 @@ Minha missão é clara: **construir ferramentas que realmente ajudem pessoas —
 
 ### 📲 Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-aqui)
-[![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumerosemcaractere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/paulo-souza-marques-74b7491bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/61981353338)
 <!-- Adicione seu portfólio quando estiver pronto -->
 <!-- [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio-aqui.com) -->
 
